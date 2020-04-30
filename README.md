@@ -1,4 +1,5 @@
-# crud_mini_project
+# crud_mini_project 
+박찬성 학우님 repository를 개발 repo로 정했다. (https://github.com/popobaboya/CRUD_mini_project)
 
 ## 1. mini project 주제
 vending machine
