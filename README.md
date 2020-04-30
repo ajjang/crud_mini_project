@@ -1,5 +1,5 @@
 # crud_mini_project 
-박찬성 학우님 repository를 개발 repo로 정했다. (https://github.com/popobaboya/CRUD_mini_project)
+박천성 학우님 repository를 개발 repo로 정했다. (https://github.com/popobaboya/CRUD_mini_project)
 
 ## 1. mini project 주제
 vending machine
@@ -10,7 +10,7 @@ vending machine을 구현하여 물건들을 살 수 있는 프로그램이다. 
 
 ## 3. 팀소개 및 팀원이 맡은 역할
 
-### 박찬성 학우님
+### 박천성 학우님
 상품리스트 확인, 상품수정, 상품삭제, 상품추가, 상품검색, 구입
 
 ### 장아린 학우님
